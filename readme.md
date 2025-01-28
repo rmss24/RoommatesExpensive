@@ -24,8 +24,7 @@ You can install the required libraries using pip:
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone [repository-url]
-   cd [repository-directory]
+   git clone https://github.com/rmss24/RoommatesExpensive.it
    ```
 
 2. Install the required libraries:
